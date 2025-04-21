@@ -15,6 +15,8 @@ This project is built with:
 - Vite
 - TypeScript
 - React
+- lucide-react (icons)
+- react-router-dom (Link, useNavigate, useLocation )
 - shadcn-ui
 - Tailwind CSS
 
